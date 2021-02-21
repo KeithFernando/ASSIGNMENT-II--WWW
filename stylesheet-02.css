@@ -58,11 +58,11 @@ body {
 .colourful-lights {
   --colourful-lights-size: 90rem;
   --colourful-lights-holder: #ced4da;
-  --colourful-lights-bulb-1: #f94144;
-  --colourful-lights-bulb-2: #90be6d;
+  --colourful-lights-bulb-1: #f9c74f;
+  --colourful-lights-bulb-2: #f9c74f;
   --colourful-lights-bulb-3: #f9c74f;
-  --colourful-lights-bulb-4: #43aa8b;
-  --colourful-lights-bulb-5: #58b4d1;
+  --colourful-lights-bulb-4: #f9c74f;
+  --colourful-lights-bulb-5: #f9c74f;
 
   height: 6rem;
 }
