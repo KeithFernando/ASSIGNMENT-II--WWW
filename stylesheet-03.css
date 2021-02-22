@@ -1,0 +1,65 @@
+* {
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+
+
+
+body{
+    background:white;
+	color:black;
+    padding:5vh 50vh;
+    font-family:arial, verdana;
+    font-weight:light;
+    page-break-after: avoid;
+    orphans: 3;
+    widows: 3;
+}
+
+img{
+    max-width: 70%;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:3vh;
+    padding-bottom:1vh;
+    page-break-inside: avoid;
+}
+
+h1{
+	font-size:4.5vh;
+    text-align:center;
+    font-family:arial, verdana;
+}
+
+h2{
+	font-size:2vh;
+    text-align:left;
+    font-family:arial, verdana;
+    padding-top:4vh;
+    padding-bottom:0.5vh;
+}
+
+h3{
+	font-size:2vh;
+    text-align:left;
+    font-family:arial, verdana;
+    font-weight:100;
+    padding-top:50vh;
+    padding-bottom:0.5vh;
+}
+
+h4{
+	font-size:1.25vh;
+	text-align:center;
+	font-family:arial, verdana;
+	padding-bottom:5vh;
+}
+
+
+a:hover {
+	color:blue;
+}
+
