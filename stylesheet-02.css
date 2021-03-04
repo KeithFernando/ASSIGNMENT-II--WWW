@@ -42,6 +42,15 @@
 	clip-path: polygon(20% 61%, 100% 61%, 100% 100%, 0 100%, 0 80%);
 }
 
+#shape_4{
+	position:absolute;
+	background:#101010;
+	height:100vh;
+	width:100vw;
+	left:0;
+	top:0;
+	clip-path:polygon(80% 20%, 90% 20%, 90% 61%, 80% 61%);
+} 
 
 
 body {
